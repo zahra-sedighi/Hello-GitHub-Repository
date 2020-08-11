@@ -7,7 +7,7 @@ If you see this file on my project, it's because I'm learning Git.
 
 My mood:
 
-> Interested in software
+> Calm
 
 My favorite color:
 
