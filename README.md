@@ -1,4 +1,4 @@
-# Hello-GitHub-Reposority
+# Hello-GitHub-Repository
 My first reposority on GitHub!
 
 
