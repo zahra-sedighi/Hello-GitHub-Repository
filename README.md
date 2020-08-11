@@ -1,5 +1,5 @@
 # Hello-GitHub-Repository
-My first reposority on GitHub!
+My first repository on GitHub!
 
 
 I'm Zahra Sedighi and here it's my first GitHub repository.
